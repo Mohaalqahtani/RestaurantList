@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.scss">
+    <title>عرض المطاعم والمقاهي</title>
+    <style>
+
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="task-input">
+            <select name="text" class="select-box" id="placeSelector">
+                <option value="" hidden>أختر</option>
+                <option value="مطاعم">مطاعم</option>
+                <option value="مقاهي">مقاهي</option>
+            </select>
+        </div>
+
+        <div class="controls">
+            <div class="filters">
+                <span id="poor" class="btn-dollor">$</span>
+                <span id="mid" class="btn-dollor">$$</span>
+                <span id="High" class="btn-dollor">$$$</span>
+            </div>
+        </div>
+
+        <div class="restaurant-display" id="displayData">
+            <!-- سيتم عرض بيانات المطعم هنا -->
+        </div>
+
+        <div class="navigation-buttons">
+            <button class="clear-btn1" id="nextBtn">التالي</button>
+            <button class="clear-btn1" id="backBtn">السابق</button>
+        </div>
+    </div>
+    <script src="js/index.js"></script>
+</body>
+</html>
