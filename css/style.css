@@ -87,13 +87,18 @@ body{
     margin-top: 20px;
     text-align: center;
 }
-.restaurant-display img {
+.restaurant-displayimg {
     width: 200px;
     height: 150px;
     border-radius: 10px;
 }
 .navigation-buttons {
     margin-top: 20px;
+}
+.icons-loc{
+    width: 15px;
+    /* height: 0px; */
+    margin: 0px 0px;
 }
 .clear-btn1{
     border: none;
