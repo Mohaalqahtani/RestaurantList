@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 { name: "مطعم LMK الخبر", img: "img/lmk.jpg", bestChoice: "🤷‍♂️" , locationLink : 'https://maps.app.goo.gl/XyEMzqSdzHEANfN98' , menuList: 'https://let-me-know.yallaqrcodes.com/'}
             ],
             high: [
-                { name: "بيك اب برجر", img: "img/PickupBurger.jpeg", bestChoice: "دبل بيف أر , بيك اب فرايز أر" , locationLink: 'https://maps.app.goo.gl/hDffZtKQSyqsuSYS7' , menuList: 'files/pickupburger.pdf'},
+                { name: "بيك اب برجر", img: "img/PickupBurger.jpeg", bestChoice: "دبل بيف أر , بيك اب فرايز أر" , locationLink: 'https://maps.app.goo.gl/hDffZtKQSyqsuSYS7' , menuList: 'files/pickupmenu.pdf'},
                 { name: "اريا", img: "img/arya.jpeg", bestChoice: "🤷‍♂️" , locationLink : 'https://maps.app.goo.gl/2VJLDThPgT4XDb2d7', menuList : 'https://arya.menuspages.com/' },
                 { name: "شريمب نيشن", img: "img/shrimp.png", bestChoice: "🤷‍♂️" , locationLink : 'https://maps.app.goo.gl/FZM9TRGWmeYSGYHc7' , menuList: 'https://shrimpnation.com/menu/'},
                 { name: "برجر بوتيك", img: "img/Boutique.png", bestChoice: "🤷‍♂️" , locationLink : 'https://maps.app.goo.gl/vnTFXhwXPs7xhKeX6' , menuList: 'https://www.gastronomicaksa.com/jeddahmenueng'},
