@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 { name: "مطعم LMK الخبر", img: "img/lmk.jpg", bestChoice: "🤷‍♂️" , locationLink : 'https://maps.app.goo.gl/XyEMzqSdzHEANfN98' , menuList: 'https://let-me-know.yallaqrcodes.com/'}
             ],
             high: [
-                { name: "بيك اب برجر", img: "img/PickupBurger.jpeg", bestChoice: "دبل بيف أر , بيك اب فرايز أر" , locationLink: 'https://maps.app.goo.gl/hDffZtKQSyqsuSYS7' , menuList: 'files/pickupmenu.pdf'},
+                { name: "بيك اب برجر", img: "img/PickupBurger.jpeg", bestChoice: "دبل بيف أر , بيك اب فرايز أر" , locationLink: 'https://maps.app.goo.gl/hDffZtKQSyqsuSYS7' , menuList: 'files/pickupburger.pdf'},
                 { name: "اريا", img: "img/arya.jpeg", bestChoice: "🤷‍♂️" , locationLink : 'https://maps.app.goo.gl/2VJLDThPgT4XDb2d7', menuList : 'https://arya.menuspages.com/' },
                 { name: "شريمب نيشن", img: "img/shrimp.png", bestChoice: "🤷‍♂️" , locationLink : 'https://maps.app.goo.gl/FZM9TRGWmeYSGYHc7' , menuList: 'https://shrimpnation.com/menu/'},
                 { name: "برجر بوتيك", img: "img/Boutique.png", bestChoice: "🤷‍♂️" , locationLink : 'https://maps.app.goo.gl/vnTFXhwXPs7xhKeX6' , menuList: 'https://www.gastronomicaksa.com/jeddahmenueng'},
@@ -48,25 +48,25 @@ document.addEventListener("DOMContentLoaded", function() {
         },
         "مقاهي": {
             poor: [
-                { name: "كيف التوأم الخبر الشمالية", img: "cheapcafe4.jpg", bestChoice: "🤷‍♂️" }
+                { name: "كيف التوأم الخبر الشمالية", img: "img/keeftwin.jpg", bestChoice: "🤷‍♂️" , locationLink: 'https://maps.app.goo.gl/KF51P58XgkDVq2V3A' , menuList: 'files/keeftwin.pdf'}
             ],
             mid: [
-                { name: "كوفي بنما", img: "midcafe4.jpg", bestChoice: "🤷‍♂️" },
-                { name: "شاي صليل", img: "midcafe5.jpg", bestChoice: "🤷‍♂️" },
-                { name: "قهوه عمق", img: "midcafe6.jpg", bestChoice: "🤷‍♂️" },
-                { name: "ATYPICAL", img: "midcafe7.jpg", bestChoice: "🤷‍♂️" },
-                { name: "كوفي اوتن", img: "midcafe8.jpg", bestChoice: "🤷‍♂️" },
-                { name: "محمصه ومقهى ويبرو", img: "midcafe9.jpg", bestChoice: "🤷‍♂️" },
-                { name: "مقهى Graph", img: "midcafe10.jpg", bestChoice: "كركديه , V60 , فرنش توست سولتيد كرميل" },
-                { name: "دوكه", img: "midcafe11.jpg", bestChoice: "V60 , فرنش توست" },
-                { name: "نمق", img: "midcafe12.jpg", bestChoice: "كيكة نمق , V60" },
-                { name: "قشة", img: "midcafe13.jpg", bestChoice: "كركديه , V60 , كيكة التمر" },
-                { name: "أودن", img: "midcafe14.jpg", bestChoice: "🤷‍♂️" }
+                { name: "كوفي بنما", img: "img/panma.jpg", bestChoice: "🤷‍♂️" , locationLink: 'https://maps.app.goo.gl/wv3Zrm2bYFxven718' , menuList: 'files/panamamenu.pdf'},
+                { name: "شاي صليل", img: "img/slayl.jpg", bestChoice: "🤷‍♂️" , locationLink: 'https://maps.app.goo.gl/hagdnAS485qXdWaL6' , menuList: 'files/sallelmenu.pdf'},
+                { name: "قهوه عمق", img: "img/umq.jpg", bestChoice: "🤷‍♂️" , locationLink: 'https://maps.app.goo.gl/4XLdBU3RUgnSza7j7' , menuList: 'files/umqmenu.jpg'},
+                { name: "ATYPICAL", img: "img/ATYPICAL.jpg", bestChoice: "🤷‍♂️" , locationLink: 'https://maps.app.goo.gl/9GPGNniiX5nBcyRZ7' , menuList: 'files/ATYPICALmenu.jpg'},
+                { name: "كوفي اوتن", img: "img/otten.jpg", bestChoice: "🤷‍♂️" , locationLink: 'https://maps.app.goo.gl/kiLpdoQZenp1HLjx7' , menuList: 'files/ottenmenu.pdf'},
+                { name: "محمصه ومقهى ويبرو", img: "img/webrew.png", bestChoice: "🤷‍♂️" , locationLink: 'https://maps.app.goo.gl/ZwwBaqceWseyEceP8' , menuList: 'files/webrewroastersMenu.pdf'},
+                { name: "مقهى Graph", img: "img/graph.jpg", bestChoice: "كركديه , V60 , فرنش توست سولتيد كرميل" , locationLink: 'https://maps.app.goo.gl/usJpgNnhJ2MmnFBA9' , menuList: 'files/graphmenu.pdf'},
+                { name: "دوكه", img: "img/doka.jpg", bestChoice: "V60 , فرنش توست" , locationLink: 'https://maps.app.goo.gl/THTSrrnS8jXV58Jq5' , menuList: 'https://sites.google.com/view/doka5/'},
+                { name: "نمق", img: "img/nmq.png", bestChoice: "كيكة نمق , V60" , locationLink: 'https://maps.app.goo.gl/aKvtKt7EzWZDfTHM6' , menuList: 'https://www.namqcafe.com/menu'},
+                { name: "قشة", img: "img/qasha.jpg", bestChoice: "كركديه , V60 , كيكة التمر" , locationLink: 'https://maps.app.goo.gl/2CMhFm5VcF2jwKbDA' , menuList: 'files/qashamenu.jpg'},
+                { name: "أودن", img: "img/ouden.jpg", bestChoice: "🤷‍♂️" , locationLink: 'https://maps.app.goo.gl/TirvDEM2UQtgjRMg6' , menuList: 'https://ouden.yallaqrcodes.com/'}
             ],
             high: [
-                { name: "كوفي مو", img: "expensivecafe4.jpg", bestChoice: "🤷‍♂️" },
-                { name: "شاي مسكوب", img: "expensivecafe5.jpg", bestChoice: "🤷‍♂️" },
-                { name: "كوفي ECLIPSE", img: "expensivecafe6.jpg", bestChoice: "🤷‍♂️" }
+                { name: "كوفي مو", img: "img/mo.jpg", bestChoice: "🤷‍♂️" , locationLink: 'https://maps.app.goo.gl/8X5j2cWbhsJcZxvw7' , menuList: 'https://www.instagram.com/select.mo/'},
+                { name: "شاي مسكوب", img: "img/maskob.jpg", bestChoice: "🤷‍♂️" , locationLink: 'https://maps.app.goo.gl/anrL45jXzmVb1JN57' , menuList: 'files/mskobMenu.pdf'},
+                { name: "كوفي ECLIPSE", img: "img/ECLIPSE.jpg", bestChoice: "🤷‍♂️" , locationLink: 'https://maps.app.goo.gl/TGZZTiWbvTY4B3mr5' , menuList: 'https://eclipse.yallaqrcodes.com/'}
             ]
         }
     };
